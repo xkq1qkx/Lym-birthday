@@ -26,12 +26,13 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "带来焜琦的消息：": "./imgs/xiaokeai.png",
-        "高速运转的机器进入5.9号": "./imgs/xiaokeai.png",
-        "祝你新的一岁 烦恼少点": "./imgs/xiaokeai.png",
-        "过得任性一点": "./imgs/xiaokeai.png",
-        "再幸福一点": "./imgs/xiaokeai.png"
-        "玥萌": "./imgs/xiaokeai.png",
+        "带来焜琦的消息：": "./imgs/1.jpg",
+        //"高速运转的机器进入5.9号": "./imgs/xiaokeai.png",
+        "祝你新的一岁 烦恼少点": "./imgs/4.jpg",
+        "过得任性一点": "./imgs/5.jpg",
+        "再幸福一点": "./imgs/6.jpg"
+        "玥萌": "./imgs/3.jpg",
+        "我还要陪你过好多好多个生日！！！":"./imgs/7.jpg"
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
