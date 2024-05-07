@@ -10,7 +10,7 @@ var config = {
         "玥萌",  // 同上...
         "祝你新的一岁 烦恼少点",
         "过得任性一点",
-        "再幸福一点"
+        "再幸福一点",
         "最后最后",
         "生日快乐！！！",
         "我还要陪你过好多好多个生日！！！",
@@ -30,20 +30,20 @@ var config = {
         //"高速运转的机器进入5.9号": "./imgs/xiaokeai.png",
         "祝你新的一岁 烦恼少点": "./imgs/4.jpg",
         "过得任性一点": "./imgs/5.jpg",
-        "再幸福一点": "./imgs/6.jpg"
+        "再幸福一点": "./imgs/6.jpg",
         "玥萌": "./imgs/3.jpg",
-        "我还要陪你过好多好多个生日！！！":"./imgs/7.jpg"
+        "我还要陪你过好多好多个生日！！！": "./imgs/7.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
+        turn_on: "核科学复习开始！",
         play: "音乐",
         bannar_coming: "颜色",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        wish_message: "宝宝生日快乐",
+        story: "哦？THERE IS A MESSAGE FOR YOU",
     }
 };
